@@ -14,3 +14,6 @@ This repository is containing of Arduino ino file  for Chair logic and Android A
 
 ## Wiring Diagram
 ![Wiring Diagram](https://drive.google.com/uc?id=12JLaVVep9Tqu7yCjKS_UxmhsOJuAEPXY)
+
+
+
